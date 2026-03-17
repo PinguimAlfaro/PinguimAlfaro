@@ -1,5 +1,7 @@
 Lucas Pereira Alfaro
-18 Years old 
+
+18 Years old
+
 Brazilian
 
 - High School with Data Development integrated course certificate
