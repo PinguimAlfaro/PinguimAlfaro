@@ -1,16 +1,21 @@
-## Hi there 👋
+Lucas Pereira Alfaro
+18 Years old 
+Brazilian
 
-<!--
-**PinguimAlfaro/PinguimAlfaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- High School with Data Development integrated course certificate
+- Speaks portuguese, english and spanish
+- 145/160 in Duolingo Enlgish proficiency test
+- Part of a Biotechnological project for Unesp Rio Claro
+- Two years presented posters and stands for Unesp's Scientific initiation congress
+- Voluntary intership at Rio Claro Environmental Department as a Data Bank programmer
+- High knowledge in Html and Css programming languages
+- Medium knowledge in Php and C# programming languages
+- Currently taking a Python programming language course
+- Multiple courses in entrepreneurship and investment with certificates 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+Email: lucas.p.alfaro@gmail.com
+
+Curriculum and informations
+Lattes: https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=1E7B06F655FBB808D5372E8D7C77B46C#
