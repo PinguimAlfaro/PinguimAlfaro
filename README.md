@@ -16,7 +16,7 @@
 - Backend: PHP (Intermediate), C# (Intermediate)
 - Learning: Python (Beginner)
 
-  ## Projects & Experience
+## 📚 Projects & Experience
 
 **Environmental Education Game (CFJC – UNESP Rio Claro)**
 - Member of the "Centro de Formação de Jovens Cientistas (CFJC)", a biotechnology-focused project at UNESP university
@@ -33,12 +33,12 @@
 - Designed and implemented a centralized database system to improve data organization and access
 - Working with MySql, Php, Html and Css for database development
 
-Link to showcase/preview of the centralized database system: 
+### Link to showcase/preview of the centralized database system: https://github.com/PinguimAlfaro/environmental-department-Database-Showcase 
 
-## CONTACT ME
+## 📱 CONTACT ME
 
 📧 lucas.p.alfaro@gmail.com
 
-**CURRICULUM AND INFORMATIONS**
+## 🧾 CURRICULUM AND INFORMATIONS
 
 Lattes: https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=1E7B06F655FBB808D5372E8D7C77B46C#
