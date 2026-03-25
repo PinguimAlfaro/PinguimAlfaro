@@ -16,10 +16,10 @@ Brazilian
 - Multiple courses in entrepreneurship and investment with certificates 
 
 
-Contact
+**CONTACT ME:**
 
-Email: lucas.p.alfaro@gmail.com
+📧 lucas.p.alfaro@gmail.com
 
-Curriculum and informations
+**CURRICULUM AND INFORMATIONS**
 
 Lattes: https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=1E7B06F655FBB808D5372E8D7C77B46C#
