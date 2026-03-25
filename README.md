@@ -3,14 +3,20 @@
 - 18 Years old
 - Brazilian
 - High School with Data Development integrated course certificate (Etec Prof. Armando Bayeux da Silva)
-- Speaks portuguese, english and spanish
-- 145/160 in Duolingo Enlgish proficiency test
+- Scored 145/160 in Duolingo English proficiency test
+## 🛠️Technical Toolkit
+**Language and communication**
+- Portuguese: Native
+- English: (C1)
+- Spanish: Intermediate (strong speaking and comprehension; family background)
+**Tech Stack**
+- Frontend: HTML (Advanced), CSS (Advanced)
+- Backend: PHP (Intermediate), C# (Intermediate)
+- Learning: Python (Beginner)
+  
 - Part of a Biotechnological project for Unesp Rio Claro
 - Two years presented posters and stands for Unesp's Scientific initiation congress
 - Voluntary intership at Rio Claro Environmental Department as a Data Bank programmer
-- High knowledge in Html and Css programming languages
-- Medium knowledge in Php and C# programming languages
-- Currently taking a Python programming language course
 - Multiple courses in entrepreneurship and investment with certificates 
 
 
