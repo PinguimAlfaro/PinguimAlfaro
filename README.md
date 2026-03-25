@@ -16,7 +16,7 @@
 - Backend: PHP (Intermediate), C# (Intermediate)
 - Learning: Python (Beginner)
 
-  **Tools**
+**Data & Tools**
 - Databases: MySql
 - Git & Github
 - Visual Studio Code
