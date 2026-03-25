@@ -14,6 +14,7 @@
 - Frontend: HTML (Advanced), CSS (Advanced)
 - Backend: PHP (Intermediate), C# (Intermediate)
 - Learning: Python (Beginner)
+
   
 - Part of a Biotechnological project for Unesp Rio Claro
 - Two years presented posters and stands for Unesp's Scientific initiation congress
