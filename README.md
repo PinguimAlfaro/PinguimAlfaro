@@ -9,6 +9,7 @@
 - Portuguese: Native
 - English: (C1)
 - Spanish: Intermediate (strong speaking and comprehension; family background)
+  
 **Technical Skills/Tech Stack**
 - Frontend: HTML (Advanced), CSS (Advanced)
 - Backend: PHP (Intermediate), C# (Intermediate)
