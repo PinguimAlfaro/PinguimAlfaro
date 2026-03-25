@@ -1,3 +1,4 @@
+# 👋🏻 NICE TO MEET YOU! 
 # LUCAS PEREIRA ALFARO
 ## 🙋🏻‍♂️ ABOUT ME 
 - 18 Years old
