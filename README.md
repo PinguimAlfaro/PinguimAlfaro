@@ -1,7 +1,7 @@
 # LUCAS PEREIRA ALFARO
-
-18 Years old
-Brazilian
+# 🙋🏻‍♂️ ABOUT ME 
+- 18 Years old
+- Brazilian
 
 - High School with Data Development integrated course certificate
 - Speaks portuguese, english and spanish
