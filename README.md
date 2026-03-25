@@ -1,5 +1,5 @@
 # LUCAS PEREIRA ALFARO
-# 🙋🏻‍♂️ ABOUT ME 
+## 🙋🏻‍♂️ ABOUT ME 
 - 18 Years old
 - Brazilian
 
