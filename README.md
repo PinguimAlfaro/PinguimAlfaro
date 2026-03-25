@@ -16,6 +16,17 @@
 - Backend: PHP (Intermediate), C# (Intermediate)
 - Learning: Python (Beginner)
 
+  **Tools**
+- Databases: MySql
+- Git & Github
+- Visual Studio Code
+- Game Development: Unity
+- VisualG 3.0
+
+**Additional Certifications**
+- Investment and Financial Market Courses (Certified)
+- Focus on financial analysis, risk management, and market fundamentals
+
 ## 📚 Projects & Experience
 
 **Environmental Education Game (CFJC – UNESP Rio Claro)**
