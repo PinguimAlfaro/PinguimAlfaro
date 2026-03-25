@@ -2,8 +2,7 @@
 ## 🙋🏻‍♂️ ABOUT ME 
 - 18 Years old
 - Brazilian
-
-- High School with Data Development integrated course certificate
+- High School with Data Development integrated course certificate (Etec Prof. Armando Bayeux da Silva)
 - Speaks portuguese, english and spanish
 - 145/160 in Duolingo Enlgish proficiency test
 - Part of a Biotechnological project for Unesp Rio Claro
