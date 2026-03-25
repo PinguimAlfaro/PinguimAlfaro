@@ -16,8 +16,7 @@
 - Backend: PHP (Intermediate), C# (Intermediate)
 - Learning: Python (Beginner)
 
-  ## Projects
-Projects & Experience
+  ## Projects & Experience
 
 **Environmental Education Game (CFJC – UNESP Rio Claro)**
 - Member of the "Centro de Formação de Jovens Cientistas (CFJC)", a biotechnology-focused project at UNESP university
