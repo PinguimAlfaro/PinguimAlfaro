@@ -23,7 +23,7 @@
 - Multiple courses in entrepreneurship and investment with certificates 
 
 
-**CONTACT ME:**
+## CONTACT ME
 
 📧 lucas.p.alfaro@gmail.com
 
