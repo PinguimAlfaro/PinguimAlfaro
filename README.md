@@ -40,6 +40,9 @@
 - Participated in "UNESP Portas Abertas" (2 years), promoting scientific projects to the public
 
 **Volunteer Intern (Environmental Department - Rio Claro)**
+<a href="Lattes: https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=1E7B06F655FBB808D5372E8D7C77B46C#"><img width="1596" height="758" alt="image" src="https://github.com/user-attachments/assets/79d0039f-991e-4d50-a72d-5e2943f60ae3" /><a/>
+<img width="1598" height="758" alt="image" src="https://github.com/user-attachments/assets/ecf3817a-050b-4018-b342-86fc0b6811b5" />
+
 - Developing and managing databases for multiple sectors
 - Designed and implemented a centralized database system to improve data organization and access
 - Working with MySql, Php, Html and Css for database development
