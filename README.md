@@ -2,6 +2,7 @@
 # LUCAS PEREIRA ALFARO
 ## 🙋🏻‍♂️ ABOUT ME
 **Meet me**
+
 Graduate of a Technical Program in Systems Development, focused on data development, with strong interest in machine learning, web development, and data analysis. I have practical experience working with PHP and MySQL databases, game development using C# and Unity, and web development technologies. My goal is to use technology to solve real-world problems and develop practical solutions, often related to environmental challenges.
 
 **Other details**
