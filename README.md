@@ -1,6 +1,10 @@
 # 👋🏻 Nice to meet you!
 # LUCAS PEREIRA ALFARO
-## 🙋🏻‍♂️ ABOUT ME 
+## 🙋🏻‍♂️ ABOUT ME
+**Meet me**
+Graduate of a Technical Program in Systems Development, focused on data development, with strong interest in machine learning, web development, and data analysis. I have practical experience working with PHP and MySQL databases, game development using C# and Unity, and web development technologies. My goal is to use technology to solve real-world problems and develop practical solutions, often related to environmental challenges.
+
+**Other details**
 - 18 Years old
 - Brazilian
 - High School with Data Development integrated course certificate (Etec Prof. Armando Bayeux da Silva)
