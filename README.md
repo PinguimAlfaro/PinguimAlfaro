@@ -63,4 +63,4 @@ Graduate of a Technical Program in Systems Development, focused on data developm
 
 ## 🧾 CURRICULUM AND INFORMATIONS
 
-Lattes: https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=1E7B06F655FBB808D5372E8D7C77B46C#
+Lattes: http://lattes.cnpq.br/5556369905171857
