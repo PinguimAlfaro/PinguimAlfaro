@@ -30,6 +30,9 @@
 ## 📚 Projects & Experience
 
 **Environmental Education Game (CFJC – UNESP Rio Claro)**
+<img width="798" height="419" alt="Captura de tela 2026-03-27 163603" src="https://github.com/user-attachments/assets/4405bee7-b79e-4d13-b98d-d717ad65dc68" />
+<img width="795" height="420" alt="Captura de tela 2026-03-27 163619" src="https://github.com/user-attachments/assets/74650109-b1b5-438e-950c-b3832ebf27fb" />
+
 - Member of the "Centro de Formação de Jovens Cientistas (CFJC)", a biotechnology-focused project at UNESP university
 - Collaborating in the development of an educational game focused on ecosystem services and environmental awareness
 - Working with C# and Unity for game development
