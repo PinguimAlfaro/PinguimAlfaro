@@ -65,4 +65,5 @@ Graduate of a Technical Program in Systems Development, focused on data developm
 ## 🧾 CURRICULUM AND INFORMATIONS
 
 Linkedin: www.linkedin.com/in/pinguim-alfaro-058a173a7
+
 Lattes: http://lattes.cnpq.br/5556369905171857
