@@ -27,6 +27,7 @@ Graduate of a Technical Program in Systems Development, focused on data developm
 - Visual Studio Code
 - Game Development: Unity
 - VisualG 3.0
+- Microsoft Excel (Data Analysis)
 
 **Additional Certifications**
 - Investment and Financial Market Courses (Certified)
