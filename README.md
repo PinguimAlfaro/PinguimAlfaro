@@ -10,6 +10,9 @@ Graduate of a Technical Program in Systems Development, focused on data developm
 - Brazilian
 - High School with Data Development integrated course certificate (Etec Prof. Armando Bayeux da Silva)
 - Scored 145/160 in Duolingo English proficiency test
+
+---
+
 ## 🛠️Technical Toolkit
 **Language and communication**
 - Portuguese: Native
@@ -32,6 +35,8 @@ Graduate of a Technical Program in Systems Development, focused on data developm
 **Additional Certifications**
 - Investment and Financial Market Courses (Certified)
 - Focus on financial analysis, risk management, and market fundamentals
+
+---
 
 ## 📚 Projects & Experience
 
@@ -57,6 +62,8 @@ Graduate of a Technical Program in Systems Development, focused on data developm
 - Working with MySql, Php, Html and Css for database development
 
 ### Link to showcase/preview of the centralized database system: https://github.com/PinguimAlfaro/environmental-department-Database-Showcase 
+
+---
 
 ## 📱 CONTACT ME
 
