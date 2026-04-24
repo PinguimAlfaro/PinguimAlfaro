@@ -42,6 +42,7 @@ Graduate of a Technical Program in Systems Development, focused on data developm
 
 **Environmental Education Game (CFJC – UNESP Rio Claro)**
 <img width="798" height="419" alt="Captura de tela 2026-03-27 163603" src="https://github.com/user-attachments/assets/4405bee7-b79e-4d13-b98d-d717ad65dc68" />
+<br>
 <img width="795" height="420" alt="Captura de tela 2026-03-27 163619" src="https://github.com/user-attachments/assets/74650109-b1b5-438e-950c-b3832ebf27fb" />
 
 - Member of the "Centro de Formação de Jovens Cientistas (CFJC)", a biotechnology-focused project at UNESP university
@@ -55,6 +56,7 @@ Graduate of a Technical Program in Systems Development, focused on data developm
 
 **Volunteer Intern (Environmental Department - Rio Claro)**
 <a href="Lattes: https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=1E7B06F655FBB808D5372E8D7C77B46C#"><img width="1596" height="758" alt="image" src="https://github.com/user-attachments/assets/79d0039f-991e-4d50-a72d-5e2943f60ae3" /><a/>
+<br>
 <img width="1598" height="758" alt="image" src="https://github.com/user-attachments/assets/ecf3817a-050b-4018-b342-86fc0b6811b5" />
 
 - Developing and managing databases for multiple sectors
