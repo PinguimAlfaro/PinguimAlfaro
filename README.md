@@ -62,7 +62,7 @@ Graduate of a Technical Program in Systems Development, focused on data developm
 - Working with MySql, Php, Html and Css for database development
 
 ### Link to showcase/preview of the centralized database system: https://github.com/PinguimAlfaro/environmental-department-Database-Showcase 
-
+### Link to showcase/preview of the TCC/Capstone project 2D multiplayer mythology game "Orpheus & Eurydice": https://github.com/PinguimAlfaro/TCC-Orfeu-and-Euridice-Game-Showcase
 ---
 
 ## 📱 CONTACT ME
